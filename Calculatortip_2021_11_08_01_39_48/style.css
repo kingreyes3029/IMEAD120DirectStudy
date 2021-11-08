@@ -1,0 +1,12 @@
+html {
+  background-color: #333232;
+ight: 100%
+}
+#container {
+  height: 325px;
+  width: 350px;
+  background-color: #F5E4c3;
+  
+  display: grid;
+  
+}
